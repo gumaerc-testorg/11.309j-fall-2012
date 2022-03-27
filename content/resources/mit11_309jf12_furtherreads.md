@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09d04d56-f6e2-3de6-785b-d99989fea15d
 resourcetype: Document
 title: Further Readings for 11.309J / 4.215J, Fall 2012
 uid: 0345168e-a487-222a-d3ad-1c430c573cc6
