@@ -5,6 +5,7 @@ file: /courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/0345168ea4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Further Readings for 11.309J / 4.215J, Fall 2012
 uid: 0345168e-a487-222a-d3ad-1c430c573cc6
 ---
 This file contains information regarding further readings.
-
