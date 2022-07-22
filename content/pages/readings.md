@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the schedule of reading and looking assignments
+  for each class session, information on the required course text, and additional
+  references.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 09d04d56-f6e2-3de6-785b-d99989fea15d
 ---
@@ -14,7 +20,7 @@ Other required reading assignments often are taken from the following:
 
 \[S2\] = Spirn, Anne Whiston. [_The Eye is a Door: Photography and the Art of Visual Thinking_](http://www.theeyeisadoor.com/). (forthcoming)
 
-[Further readings (PDF)]({{< baseurl >}}/resources/mit11_309jf12_furtherreads), organized by topic, are also available, as well as a [recommended reading list (PDF)]({{< baseurl >}}/resources/mit11_309jf12_recomndreads) that includes additional references and serves as a general bibliography for the course.
+{{% resource_link 0345168e-a487-222a-d3ad-1c430c573cc6 "Further readings (PDF)" %}}, organized by topic, are also available, as well as a {{% resource_link 641438f6-297d-5f58-90a0-90096501651d "recommended reading list (PDF)" %}} that includes additional references and serves as a general bibliography for the course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -338,9 +344,9 @@ Photography as Inquiry
 
 Bateson, Gregory, and Margaret Mead. _Balinese Character: A Photographic Analysis_. New York Academy of Sciences, 1942.
 
-MacLean, Alex S. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Overview: The Houston Photographs of Alex S. MacLean." _Cite: The Architecture and Design Review of Houston_ 48 (2000): 14–39.
+MacLean, Alex S. "Overview: The Houston Photographs of Alex S. MacLean." _Cite: The Architecture and Design Review of Houston_ 48 (2000): 14–39.
 
-Frayling, Christopher. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Research in Art and Design." _Royal College of Art Research Papers_ 1, no. 1 (1993).
+Frayling, Christopher. "Research in Art and Design." _Royal College of Art Research Papers_ 1, no. 1 (1993).
 
 ### Required Lookings
 

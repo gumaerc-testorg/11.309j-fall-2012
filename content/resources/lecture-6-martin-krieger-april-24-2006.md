@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Martin Krieger, April 24, 2006'
 uid: e28f82fc-786a-157f-6c5b-0abc964ccb54
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 Guest Lecture: Martin Krieger
 
 April 24, 2006
+

@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Wendy Ewald, April 3, 2006'
 uid: a891ef59-7d81-a1f9-d122-88f2c9b7580a
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 Guest Lecture: Wendy Ewald
 
 April 3, 2006
+

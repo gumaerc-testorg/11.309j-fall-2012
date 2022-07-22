@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on site investigation and selection,
+  journals, photo shooting assignments, and a web essay assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e46795de-2574-8e5f-3c4f-331e3960d760
 ---

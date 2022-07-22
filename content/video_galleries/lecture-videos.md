@@ -1,6 +1,12 @@
 ---
 content_type: video_gallery
+description: This section provides a series of eight lecture videos, with each video
+  featuring a guest lecture that was delivered in the Spring 2006 offering of the
+  course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos
 uid: 588ac960-8073-ec34-1866-83a4062f73bf
 videos:
