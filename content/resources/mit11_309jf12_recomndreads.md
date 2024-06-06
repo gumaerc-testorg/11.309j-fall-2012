@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding recommended reading list.
 file: /courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/641438f6297d5f5890a090096501651d_MIT11_309JF12_recomndreads.pdf
+file_size: 750497
 file_type: application/pdf
 learning_resource_types:
 - Readings
